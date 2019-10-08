@@ -1,5 +1,0 @@
-****************
-ASTROSCRAPPY
-****************
-
-.. automodapi:: astroscrappy
